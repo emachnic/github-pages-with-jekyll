@@ -1,15 +1,15 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Evan Machnic
+author: Evan Machnic
+email: emachnic@broadmac.net
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  My name is Evan Machnic. I've been coding for the web since
+  2003. I picked up Ruby on Rails starting in 2009 and I work
+  full-time as a DevOps Engineer.
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: emachnic
+github_username:  emachnic
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-cayman
+theme: minima
